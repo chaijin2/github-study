@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d40a892c-d5bf-45bc-b930-ae5cb5b1625a" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d40a892c-d5bf-45bc-b930-ae5cb5b1625a" name="변경" comment="main 수정">
       <change beforePath="$PROJECT_DIR$/mastering-git-github/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mastering-git-github/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
