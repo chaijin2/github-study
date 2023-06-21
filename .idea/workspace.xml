@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d40a892c-d5bf-45bc-b930-ae5cb5b1625a" name="변경" comment="main 수정">
+    <list default="true" id="d40a892c-d5bf-45bc-b930-ae5cb5b1625a" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/mastering-git-github/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mastering-git-github/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -25,7 +26,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1685499528" />
+                    <option name="lastUsedInstant" value="1687337698" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="test/fast-forward" />
